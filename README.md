@@ -30,5 +30,5 @@ exploring their application in modern software development. <br>
 
 By the end of this course, you'll not only be proficient in Java but also possess the skills necessary to tackle complex programming challenges, work collaboratively in teams, and contribute meaningfully to Java-based projects. <br>
 
-Don't miss this opportunity to advance your Java programming skills and open doors to exciting career prospects. Enroll now and embark on your journey to becoming an intermediate Java developer! <br>
+Don't miss this opportunity to advance your Java programming skills and open doors to exciting career prospects. Let's embark on your journey to becoming an intermediate Java developer! <br>
 
